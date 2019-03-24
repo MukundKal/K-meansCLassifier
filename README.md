@@ -1,4 +1,4 @@
-# K-meansCLassifier
+# K-means CLassifier
 
 This is a rudimentary application of _Unsuprervised Learning_ using the **K-Means CLustering Algorithm** implementation
 from the **Scikit-learn library**
